@@ -1,0 +1,14 @@
+.home {
+    width: 100%;
+    height: 100%;
+    
+
+ 
+}
+.home > h1 {
+    text-align: center;
+    color: #a4afb6;
+    font-size: 3em;
+}
+
+
